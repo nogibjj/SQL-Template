@@ -24,6 +24,9 @@
 				"ms-vscode.makefile-tools"
 			]
 		}
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/docker-from-docker:1": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/implementors/features.
