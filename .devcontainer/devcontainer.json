@@ -1,6 +1,5 @@
 // Update the VARIANT arg in docker-compose.yml to pick a Python version
 {
-<<<<<<< HEAD
 	"name": "Python 3 & PostgreSQL",
 	"dockerComposeFile": "docker-compose.yml",
 	"service": "app",
